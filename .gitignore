@@ -1,3 +1,4 @@
 # ignora le seguenti dir
+__pycache__/
 bak/
 parallel/
